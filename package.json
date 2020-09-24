@@ -1,0 +1,23 @@
+{
+  "name": "servidor-graphql",
+  "version": "1.0.0",
+  "description": "A simple grapgql server with apollo-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vg-cods/servidor-graphql.git"
+  },
+  "keywords": [],
+  "author": "M Angel V G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vg-cods/servidor-graphql/issues"
+  },
+  "homepage": "https://github.com/vg-cods/servidor-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^2.18.0"
+  }
+}
